@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ui21_0/company_item.dart';
+import 'package:ui21_0/widget/company_item.dart';
 import 'package:ui21_0/model/company_info.dart';
 
 class CompanyList extends StatelessWidget {

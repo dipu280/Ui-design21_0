@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:ui21_0/company_details.dart';
-import 'package:ui21_0/home_appbar.dart';
+import 'package:ui21_0/widget/company_details.dart';
+import 'package:ui21_0/widget/home_appbar.dart';
 import 'package:ui21_0/model/company_info.dart';
 
 // ignore: must_be_immutable

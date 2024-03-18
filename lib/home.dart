@@ -1,10 +1,10 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:ui21_0/company_list.dart';
-import 'package:ui21_0/home_appbar.dart';
-import 'package:ui21_0/search_bar.dart';
-import 'package:ui21_0/tag_list.dart';
+import 'package:ui21_0/widget/company_list.dart';
+import 'package:ui21_0/widget/home_appbar.dart';
+import 'package:ui21_0/widget/search_bar.dart';
+import 'package:ui21_0/widget/tag_list.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
